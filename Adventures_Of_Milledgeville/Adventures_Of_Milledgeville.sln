@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adventures_Of_Milledgeville", "Adventures_Of_Milledgeville\Adventures_Of_Milledgeville\Adventures_Of_Milledgeville.csproj", "{096AB1FE-FF63-4057-B71E-291A20712C5E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Adventures_Of_MilledgevilleContent", "Adventures_Of_Milledgeville\Adventures_Of_MilledgevilleContent\Adventures_Of_MilledgevilleContent.contentproj", "{E99E081A-95BA-40DE-B9D6-9EE7997A7B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096AB1FE-FF63-4057-B71E-291A20712C5E}.Debug|x86.ActiveCfg = Debug|x86
+		{096AB1FE-FF63-4057-B71E-291A20712C5E}.Debug|x86.Build.0 = Debug|x86
+		{096AB1FE-FF63-4057-B71E-291A20712C5E}.Release|x86.ActiveCfg = Release|x86
+		{096AB1FE-FF63-4057-B71E-291A20712C5E}.Release|x86.Build.0 = Release|x86
+		{E99E081A-95BA-40DE-B9D6-9EE7997A7B94}.Debug|x86.ActiveCfg = Debug|x86
+		{E99E081A-95BA-40DE-B9D6-9EE7997A7B94}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
